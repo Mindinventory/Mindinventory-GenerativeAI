@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+langchain==0.0.350
+lxml==4.6.2
+PyPDF2==3.0.1
+openai==0.27.9
+python-dotenv==1.0.0
+streamlit==1.18.1
+faiss-cpu==1.7.4
+streamlit-extras
+tiktoken
