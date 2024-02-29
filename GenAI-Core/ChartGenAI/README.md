@@ -33,3 +33,9 @@ ChartGenAI is a Python application that leverages AI models to generate SQL quer
 ```
 python chartgenai.py
 ```
+## Query
+```
+query = "Give me the distribution of products across different categories."
+```
+![image (4)](https://github.com/UjjawalKRoy/MI-GenerativeAI/assets/148340487/6c7d5508-af2a-431b-84f6-47589d33b013)
+![image (3)](https://github.com/UjjawalKRoy/MI-GenerativeAI/assets/148340487/a83b16bb-0560-487e-a72e-37f05544c4a6)
