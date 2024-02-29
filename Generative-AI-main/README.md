@@ -1,2 +1,2 @@
 # Generative-AI
-Generative-AI work🧠 💡📚
+Generative-AI Projects 🧠 💡📚
