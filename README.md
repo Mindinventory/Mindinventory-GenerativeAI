@@ -1,6 +1,6 @@
 # Generative AI
 
-Welcome to the Generative AI repository! Here, you'll find a collection of projects primarily focused on Language Models (LLMs) and soon expanding to include Image Generation. 🎨✨
+Welcome to the [Mindinventory's](https://www.mindinventory.com/) Generative AI repository! Here, you'll find a collection of projects primarily focused on Language Models (LLMs) and soon expanding to include Image Generation. 🎨✨
 
 ## About
 
