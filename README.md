@@ -1,4 +1,9 @@
-# Generative AI 🚀 
+# Generative AI Initiatives 🚀 
 
- - List of projects in the field of generative AI leveraging a wide variety of LLMs, both local 💻 and cloud hosted ☁️
- - Contains 🐍 Jupyter Notebooks for various huggingface supported LLMs like Llama-2, Mistral, Mamba, Google Gemini, OpenAI, etc. and their implementation in several use cases
+- Catalogue of Projects in the Realm of Generative AI, Utilizing an Array of Local 💻 and Cloud-hosted ☁️ Large Language Models (LLMs).
+- Includes 🐍 Jupyter Notebooks for a Range of Hugging Face Supported LLMs such as Llama-2 🦙, Mistral, Mamba, Google Gemini ✨, OpenAI, and Numerous Others, Demonstrating Their Application Across Various Use Cases.
+
+# GenAI Development Roadmap 🛣️
+
+- Our Commitment to Continuously Enhance This Repository with Emerging GenAI Technologies.
+
