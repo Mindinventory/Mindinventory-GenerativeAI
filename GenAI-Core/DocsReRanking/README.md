@@ -1,4 +1,4 @@
-# Llama Index for Document Search
+# Llama Index for Document Search and Re-Ranking
 
 ## Introduction
 🔍 This repository contains code for setting up and using the Llama Index, an advanced document search tool that leverages state-of-the-art language models and embeddings for efficient information retrieval.
