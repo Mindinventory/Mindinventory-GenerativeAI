@@ -18,7 +18,7 @@ Generative AI employs techniques such as neural networks, deep learning, and mac
 ## Projects
 
 - **Language Generation**: Dive into text generation projects showcasing AI's versatility in generating dialogue and poetry, predominantly using Language Models. 📝🤖
-- **Audio Generation** (Coming Soon): Experience AI-generated Audio for your personal requirements. 🎵🎶
+- **Audio Generation** (Coming Soon): Experience AI-generated Audio for your personal requirements. 🔊🎶
 - **Image Generation** (Coming Soon): Explore the realm of AI-generated images, from realistic scenes to abstract art. 🖼️🌌
 
 ## Resources
